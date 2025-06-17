@@ -1,1 +1,4 @@
 -  Hi, I’m @NicV236
+-  Computer Engineering student
+-  Proficient in C and C++
+-  basic knowledge in python, HTML, CSS and JavaScript
